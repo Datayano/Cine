@@ -26,7 +26,7 @@ if selection == "Acceuil" :
         st.title("Bienvenue sur  d'accueil")
 
         #Auteur : st.subheader()
-        st.subheader("Auteur : Bamba SYLLA, FROQUET Yann, DOIZON Sevan")
+        st.subheader("Auteur : Bamba SYLLA, FLOQUET Yann, DOIZON Sevan")
 
         #Description de l'application : st.write()
         st.write("**Bienvenue à toi ! Tu as apprécié nos diffusions ? Prolonge ton bonheur avec nos recommandations que tu apprécieras à coup sûr !**")
